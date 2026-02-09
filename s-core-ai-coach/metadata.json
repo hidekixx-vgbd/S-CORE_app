@@ -1,0 +1,7 @@
+{
+  "name": "S-CORE AI Coach",
+  "description": "A sophisticated sports analysis and AI coaching application that evaluates athletic performance across physical and technical categories, providing personalized insights and radar chart visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
